@@ -9,7 +9,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #042104;
+  background: #320a49;
   animation: animateBg 10s linear infinite;
 }
 
@@ -24,8 +24,8 @@ section {
 
 section .loader {
   position: relative;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
 }
 
 section .loader span {
@@ -42,15 +42,17 @@ section .loader span::before {
   position: absolute;
   top: 0;
   left: 0;
-  width: 15px;
-  height: 15px;
+  width: 25px;
+  height: 25px;
   border-radius: 50%;
-  background: #00ff0a;
-  box-shadow: 0 0 10px #00ff0a, 0 0 20px #00ff0a, 0 0 40px #00ff0a,
-    0 0 60px #00ff0a, 0 0 80px #00ff0a, 0 0 100px #00ff0a;
+  background: #ffffff;
+  box-shadow: 0 0 10px #fbff00, 0 0 20px #fbff00, 0 0 40px #fbff00,
+    0 0 60px #fbff00, 0 0 80px #fbff00, 0 0 100px #fbff00;
   animation: animate 2s linear infinite;
   animation-delay: calc(0.1s * var(--i));
 }
+
+/* //#00ff0a; */
 
 @keyframes animate {
   0% {
