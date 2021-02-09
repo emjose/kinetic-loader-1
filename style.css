@@ -9,7 +9,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #320a49;
+  background: #361303;
   animation: animateBg 10s linear infinite;
 }
 
@@ -46,17 +46,15 @@ section .loader span::before {
   height: 25px;
   border-radius: 50%;
   background: #ffffff;
-  box-shadow: 0 0 10px #fbff00, 0 0 20px #fbff00, 0 0 40px #fbff00,
-    0 0 60px #fbff00, 0 0 80px #fbff00, 0 0 100px #fbff00;
+  box-shadow: 0 0 10px #ffd900, 0 0 20px #ffd900, 0 0 40px #ffd900,
+    0 0 60px #ffd900, 0 0 80px #ffd900, 0 0 100px #ffd900;
   animation: animate 2s linear infinite;
   animation-delay: calc(0.1s * var(--i));
 }
 
-/* //#00ff0a; */
-
 @keyframes animate {
   0% {
-    transform: scale(1);
+    transform: scale(1.5);
   }
   80%,
   100% {
