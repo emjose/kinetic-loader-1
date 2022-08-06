@@ -48,13 +48,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/kinetic-loader-1.git && cd kinetic-loader-1
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
