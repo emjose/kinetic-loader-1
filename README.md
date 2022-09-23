@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -39,6 +41,8 @@
 -   I watched tutorials and made two animated kinetic loaders for Day 7.
 
 -   See <a href="https://github.com/emjose/kinetic-loader-2/#header">second kinetic loader</a>.
+
+<br>
 
 #
 
@@ -58,6 +62,8 @@ git clone git@github.com:emjose/kinetic-loader-1.git && cd kinetic-loader-1
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -65,6 +71,10 @@ open index.html
 <a href="https://emjose.github.io/kinetic-loader-1/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/kinetic-loader-1/">![Live Site](Assets/007-kinetic-1.gif)</a>
+
+**[Kinetic Loader 1](https://emjose.github.io/kinetic-loader-1/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
 
 #
 
@@ -76,6 +86,8 @@ open index.html
 -   #### [Circular Kinetic Loader Tutorial](https://youtu.be/ttWXapXj4cg) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
